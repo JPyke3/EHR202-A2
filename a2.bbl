@@ -19,87 +19,527 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{aquinoJalvesaqZotcite2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1bf48dd4882a1341e5146a14ea7843fe}{%
-           family={Aquino},
-           familyi={A\bibinitperiod},
-           given={Jakson\bibnamedelima Alves},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
+    \entry{coffinBullyingAboriginalContext2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7b950ff2a3741779c3706aacc0c6a603}{%
+           family={Coffin},
+           familyi={C\bibinitperiod},
+           given={Juli},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20b34cb1e9ea2241126168d7da75b33e}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bf7fe39f0df4754a4195ec15d0e8d9f}{%
+           family={Cross},
+           familyi={C\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{fullhash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{bibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authorbibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authornamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authorfullhash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2e928d371ab55e4d5ed36775b1d4380f}
+      \strng{fullhash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{bibnamehash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{authorbibnamehash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{authornamehash}{2e928d371ab55e4d5ed36775b1d4380f}
+      \strng{authorfullhash}{492b9b5b3063685862a9b5886d7964fc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Vim plugin for integration with Zotero}
-      \field{month}{1}
-      \field{title}{Jalvesaq/Zotcite}
-      \field{urlday}{27}
+      \field{issn}{1326-0111}
+      \field{journaltitle}{The Australian Journal of Indigenous Education}
+      \field{number}{1}
+      \field{title}{Bullying in an {{Aboriginal}} Context}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{77\bibrangedash 87}
+      \range{pages}{11}
+    \endentry
+    \entry{leederAchievingEquityAustralian2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17a25516d7052d333eda5a4de0dec83d}{%
+           family={Leeder},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{fullhash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{bibnamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authorbibnamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authornamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authorfullhash}{17a25516d7052d333eda5a4de0dec83d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-729X}
+      \field{journaltitle}{Medical Journal of Australia}
+      \field{number}{9}
+      \field{title}{Achieving Equity in the {{Australian}} Healthcare System}
+      \field{volume}{179}
+      \field{year}{2003}
+      \field{pages}{475\bibrangedash 478}
+      \range{pages}{4}
+    \endentry
+    \entry{statisticsChapterDisability2011}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
+           family={Statistics},
+           familyi={S\bibinitperiod},
+           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
+           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
+      }
+      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is a summary from publication Disability which contains key figures, key points and notes from the publication.}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Chapter - {{Disability}}}
+      \field{urlday}{28}
       \field{urlmonth}{1}
       \field{urlyear}{2024}
-      \field{year}{2024}
+      \field{year}{2011}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
+      \endverb
       \verb{urlraw}
-      \verb https://github.com/jalvesaq/zotcite
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
       \endverb
       \verb{url}
-      \verb https://github.com/jalvesaq/zotcite
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
       \endverb
-      \keyw{neovim-plugin,zotero}
+    \endentry
+    \entry{pearsonExtendingBoundariesHuman2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e358f958f13cffce385fbe19eb1c50a9}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be2c1f381115db0b70b5570c5457eee0}{%
+           family={Daff},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{fullhash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{bibnamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authorbibnamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authornamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authorfullhash}{aff78ba951b2221855700f27ff1f3051}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Australian Indigenous people continue to experience low economic independence and acknowledged social dislocations believed to be underpinned by unattractive levels of participation in the labour market. Recent legal developments provide foundation for mining operators, the Australian governments, and Indigenous traditional owners to negotiate land-use agreements that feature commitment to deliver greater training and employment prospects for Aboriginal people. However, aspirations of Australian Indigenous people, who are deficient in written English expression, to obtain entry to new mainstream jobs are seriously curbed when confronted with recruitment processes requiring competencies in English reading and writing skills. In this paper is reported an assessment of an innovative recruitment process, devoid of the need to demonstrate English literacy skills, for Indigenous people seeking mainstream jobs in the mining sector. The relative features of the scheme are discussed in the context of a multinational mining company operating in northern Australia.}
+      \field{issn}{1038-4111, 1744-7941}
+      \field{journaltitle}{Asia Pacific Journal of Human Resources}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{Extending Boundaries of Human Resource Concepts and Practices}
+      \field{title}{Extending Boundaries of Human Resource Concepts and Practices: {{An}} Innovative Recruitment Method for {{Indigenous Australians}} in Remote Regions}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{325\bibrangedash 343}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1177/1038411111414380
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+      \verb{url}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+    \endentry
+    \entry{podgerEnduringChallengesNew2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4724c28291267f73eea325f9d0fc5365}{%
+           family={Podger},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{fullhash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{bibnamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authorbibnamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authornamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authorfullhash}{4724c28291267f73eea325f9d0fc5365}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0734-371X}
+      \field{journaltitle}{Review of Public Personnel Administration}
+      \field{number}{1}
+      \field{title}{Enduring Challenges and New Developments in Public Human Resource Management: {{Australia}} as an Example of International Experience}
+      \field{volume}{37}
+      \field{year}{2017}
+      \field{pages}{108\bibrangedash 128}
+      \range{pages}{21}
+    \endentry
+    \entry{rynesImportanceRecruitmentJob1991}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a9aa73cf666c0410b401878283a15a40}{%
+           family={Rynes},
+           familyi={R\bibinitperiod},
+           given={Sara\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7f65b27e772741763cf3f1a34b171dd}{%
+           family={Bretz\bibnamedelima Jr},
+           familyi={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72cab40254a4c46ef59d9b49b979d0b6}{%
+           family={Gerhart},
+           familyi={G\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f44c7dcb64cbb9ed61185c330e3b5403}
+      \strng{fullhash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{bibnamehash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{authorbibnamehash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{authornamehash}{f44c7dcb64cbb9ed61185c330e3b5403}
+      \strng{authorfullhash}{c391f8499fd383840d28966ca576a6d8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-5826}
+      \field{journaltitle}{Personnel psychology}
+      \field{number}{3}
+      \field{title}{The Importance of Recruitment in Job Choice: {{A}} Different Way of Looking}
+      \field{volume}{44}
+      \field{year}{1991}
+      \field{pages}{487\bibrangedash 521}
+      \range{pages}{35}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{aquinoJalvesaqZotcite2024}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1bf48dd4882a1341e5146a14ea7843fe}{%
-           family={Aquino},
-           familyi={A\bibinitperiod},
-           given={Jakson\bibnamedelima Alves},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
+    \entry{coffinBullyingAboriginalContext2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7b950ff2a3741779c3706aacc0c6a603}{%
+           family={Coffin},
+           familyi={C\bibinitperiod},
+           given={Juli},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20b34cb1e9ea2241126168d7da75b33e}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bf7fe39f0df4754a4195ec15d0e8d9f}{%
+           family={Cross},
+           familyi={C\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{fullhash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{bibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authorbibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authornamehash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \strng{authorfullhash}{1bf48dd4882a1341e5146a14ea7843fe}
-      \field{sortinit}{d}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2e928d371ab55e4d5ed36775b1d4380f}
+      \strng{fullhash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{bibnamehash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{authorbibnamehash}{492b9b5b3063685862a9b5886d7964fc}
+      \strng{authornamehash}{2e928d371ab55e4d5ed36775b1d4380f}
+      \strng{authorfullhash}{492b9b5b3063685862a9b5886d7964fc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Vim plugin for integration with Zotero}
-      \field{month}{1}
-      \field{title}{Jalvesaq/Zotcite}
-      \field{urlday}{27}
+      \field{issn}{1326-0111}
+      \field{journaltitle}{The Australian Journal of Indigenous Education}
+      \field{number}{1}
+      \field{title}{Bullying in an {{Aboriginal}} Context}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{77\bibrangedash 87}
+      \range{pages}{11}
+    \endentry
+    \entry{leederAchievingEquityAustralian2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17a25516d7052d333eda5a4de0dec83d}{%
+           family={Leeder},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{fullhash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{bibnamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authorbibnamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authornamehash}{17a25516d7052d333eda5a4de0dec83d}
+      \strng{authorfullhash}{17a25516d7052d333eda5a4de0dec83d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-729X}
+      \field{journaltitle}{Medical Journal of Australia}
+      \field{number}{9}
+      \field{title}{Achieving Equity in the {{Australian}} Healthcare System}
+      \field{volume}{179}
+      \field{year}{2003}
+      \field{pages}{475\bibrangedash 478}
+      \range{pages}{4}
+    \endentry
+    \entry{statisticsChapterDisability2011}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
+           family={Statistics},
+           familyi={S\bibinitperiod},
+           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
+           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
+      }
+      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is a summary from publication Disability which contains key figures, key points and notes from the publication.}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Chapter - {{Disability}}}
+      \field{urlday}{28}
       \field{urlmonth}{1}
       \field{urlyear}{2024}
-      \field{year}{2024}
+      \field{year}{2011}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
+      \endverb
       \verb{urlraw}
-      \verb https://github.com/jalvesaq/zotcite
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
       \endverb
       \verb{url}
-      \verb https://github.com/jalvesaq/zotcite
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
       \endverb
-      \keyw{neovim-plugin,zotero}
+    \endentry
+    \entry{pearsonExtendingBoundariesHuman2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e358f958f13cffce385fbe19eb1c50a9}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be2c1f381115db0b70b5570c5457eee0}{%
+           family={Daff},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{fullhash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{bibnamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authorbibnamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authornamehash}{aff78ba951b2221855700f27ff1f3051}
+      \strng{authorfullhash}{aff78ba951b2221855700f27ff1f3051}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Australian Indigenous people continue to experience low economic independence and acknowledged social dislocations believed to be underpinned by unattractive levels of participation in the labour market. Recent legal developments provide foundation for mining operators, the Australian governments, and Indigenous traditional owners to negotiate land-use agreements that feature commitment to deliver greater training and employment prospects for Aboriginal people. However, aspirations of Australian Indigenous people, who are deficient in written English expression, to obtain entry to new mainstream jobs are seriously curbed when confronted with recruitment processes requiring competencies in English reading and writing skills. In this paper is reported an assessment of an innovative recruitment process, devoid of the need to demonstrate English literacy skills, for Indigenous people seeking mainstream jobs in the mining sector. The relative features of the scheme are discussed in the context of a multinational mining company operating in northern Australia.}
+      \field{issn}{1038-4111, 1744-7941}
+      \field{journaltitle}{Asia Pacific Journal of Human Resources}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{Extending Boundaries of Human Resource Concepts and Practices}
+      \field{title}{Extending Boundaries of Human Resource Concepts and Practices: {{An}} Innovative Recruitment Method for {{Indigenous Australians}} in Remote Regions}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{49}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{325\bibrangedash 343}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1177/1038411111414380
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+      \verb{url}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+    \endentry
+    \entry{podgerEnduringChallengesNew2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4724c28291267f73eea325f9d0fc5365}{%
+           family={Podger},
+           familyi={P\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{fullhash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{bibnamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authorbibnamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authornamehash}{4724c28291267f73eea325f9d0fc5365}
+      \strng{authorfullhash}{4724c28291267f73eea325f9d0fc5365}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0734-371X}
+      \field{journaltitle}{Review of Public Personnel Administration}
+      \field{number}{1}
+      \field{title}{Enduring Challenges and New Developments in Public Human Resource Management: {{Australia}} as an Example of International Experience}
+      \field{volume}{37}
+      \field{year}{2017}
+      \field{pages}{108\bibrangedash 128}
+      \range{pages}{21}
+    \endentry
+    \entry{rynesImportanceRecruitmentJob1991}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a9aa73cf666c0410b401878283a15a40}{%
+           family={Rynes},
+           familyi={R\bibinitperiod},
+           given={Sara\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7f65b27e772741763cf3f1a34b171dd}{%
+           family={Bretz\bibnamedelima Jr},
+           familyi={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72cab40254a4c46ef59d9b49b979d0b6}{%
+           family={Gerhart},
+           familyi={G\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{f44c7dcb64cbb9ed61185c330e3b5403}
+      \strng{fullhash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{bibnamehash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{authorbibnamehash}{c391f8499fd383840d28966ca576a6d8}
+      \strng{authornamehash}{f44c7dcb64cbb9ed61185c330e3b5403}
+      \strng{authorfullhash}{c391f8499fd383840d28966ca576a6d8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-5826}
+      \field{journaltitle}{Personnel psychology}
+      \field{number}{3}
+      \field{title}{The Importance of Recruitment in Job Choice: {{A}} Different Way of Looking}
+      \field{volume}{44}
+      \field{year}{1991}
+      \field{pages}{487\bibrangedash 521}
+      \range{pages}{35}
     \endentry
   \enddatalist
 \endrefsection
