@@ -1,12 +1,24 @@
 \documentclass{article}
-\usepackage[utf8]{inputenc}
 
-\usepackage[letterpaper]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[style=apa, backend=biber]{biblatex}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{apalike}
+\usepackage{setspace}
+\usepackage{mathptmx}
+\usepackage{bashful}
+\bash
+texcount -sum -1 a2.tex
+\END
+
 \renewcommand{\baselinestretch}{1.15}
 
+\addbibresource{My Library.bib}
+
+
+\doublespacing
 \setlength{\parskip}{0.8em}
 \setlength{\parindent}{0pt}
-
 \title{Assignment 2}
 \author{Jacob P }
 \date{January 2024}
@@ -16,7 +28,7 @@
 \maketitle
 
 \section{Introduction}
-Introduce the aim of the report and summarize the selected diversity groups and area of HRM.
+Introduce the aim of the report and summarize the selected diversity groups and area of HRM. \cite{aquinoJalvesaqZotcite2024}
 
 \section{Literature Review and Analysis for Diversity Group 1}
 Part 2: Literature Review and Analysis for Diversity Group 1 (~700-750 words) 
@@ -25,12 +37,11 @@ Literature Review: Discuss theories and empirical findings from at least four pe
 Current Practices Analysis: Examine what practices are currently in place to resolve these issues.
 
 \section{Literature Review and Analysis for Diversity Group 2}
-
 Group Overview: Discuss the second chosen diversity group's issues in the context of the HRM area.
 Literature Review: Provide a synthesis of theories and empirical findings from at least four peer-reviewed sources.
 Current Practices Analysis: Look at existing practices addressing the second group’s issues.
-\section{Recommendations}
 
+\section{Recommendations}
 Practical Recommendations: Based on research, provide actionable recommendations for HR to implement at strategic or operational levels.
 
 Practical Recommendations: Offer well-researched solutions for HR to address diversity issues for the second group.
@@ -42,14 +53,14 @@ Recap the central points of your analysis and underscore the importance of your 
 \section{Reference List}
 Part 7: Reference List
 
-Begin on a new page and include all sources cited in the report in APA 7 style.
-Formatting and Finalization
-
 Adhere to a report-style format with headings and subheadings.
 Use Times New Roman size 12 font and double-spacing.
 Avoid direct quotes and bullet points (except for recommendations).
 Include page numbers at the bottom middle of each page.
 Word count is 2000 words (±10\%), excluding reference list but including in-text citations.
 State the word count after the reference list.
+
+\printbibliography
+This document has \emph{\bashStdout} words.
 
 \end{document}

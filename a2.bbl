@@ -1,0 +1,107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{aquinoJalvesaqZotcite2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bf48dd4882a1341e5146a14ea7843fe}{%
+           family={Aquino},
+           familyi={A\bibinitperiod},
+           given={Jakson\bibnamedelima Alves},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{fullhash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{bibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authorbibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authornamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authorfullhash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vim plugin for integration with Zotero}
+      \field{month}{1}
+      \field{title}{Jalvesaq/Zotcite}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/jalvesaq/zotcite
+      \endverb
+      \verb{url}
+      \verb https://github.com/jalvesaq/zotcite
+      \endverb
+      \keyw{neovim-plugin,zotero}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{aquinoJalvesaqZotcite2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bf48dd4882a1341e5146a14ea7843fe}{%
+           family={Aquino},
+           familyi={A\bibinitperiod},
+           given={Jakson\bibnamedelima Alves},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{fullhash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{bibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authorbibnamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authornamehash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \strng{authorfullhash}{1bf48dd4882a1341e5146a14ea7843fe}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vim plugin for integration with Zotero}
+      \field{month}{1}
+      \field{title}{Jalvesaq/Zotcite}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/jalvesaq/zotcite
+      \endverb
+      \verb{url}
+      \verb https://github.com/jalvesaq/zotcite
+      \endverb
+      \keyw{neovim-plugin,zotero}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
