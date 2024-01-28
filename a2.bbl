@@ -65,6 +65,53 @@
       \field{pages}{77\bibrangedash 87}
       \range{pages}{11}
     \endentry
+    \entry{drydakisInclusiveRecruitmentHiring2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d9012d7aedddcd7c4a09928935da9312}{%
+           family={Drydakis},
+           familyi={D\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fb414bb6f34c78fb458e0c5519ac8ca}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140aa1ceda2a316edb808820be38e565}{%
+           family={Bozani},
+           familyi={B\bibinitperiod},
+           given={Vasiliki},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a19b8b36ca1d205237568dd5c57587ac}{%
+           family={Chiotis},
+           familyi={C\bibinitperiod},
+           given={Vangelis},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{473413c1ff9783724706bca5e99cb6bb}
+      \strng{fullhash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{bibnamehash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{authorbibnamehash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{authornamehash}{473413c1ff9783724706bca5e99cb6bb}
+      \strng{authorfullhash}{784664f81661ef503cfcf999b5d46b47}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Inclusive {{Recruitment}}? {{Hiring Discrimination}} against {{Older Workers}}}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/EI3CGAPR/Drydakis et al. - 2017 - Inclusive Recruitment Hiring Discrimination again.pdf
+      \endverb
+    \endentry
     \entry{leederAchievingEquityAustralian2003}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17a25516d7052d333eda5a4de0dec83d}{%
@@ -96,21 +143,119 @@
       \field{pages}{475\bibrangedash 478}
       \range{pages}{4}
     \endentry
-    \entry{statisticsChapterDisability2011}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c7bc81238f2194bc4297c2471af9d776}{%
-           family={{of Statistics}},
-           familyi={o\bibinitperiod},
-           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
-           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+    \entry{lievensRecruitingHiringOlder2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ecc5d58476dc11aae045a45bdccbc8e6}{%
+           family={Lievens},
+           familyi={L\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71b5613b769ac437bab551afdccf39cf}{%
+           family={Van\bibnamedelima Hoye},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Greet},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afa7fa36b1c933acacc73185669cbf1a}{%
+           family={Zacher},
+           familyi={Z\bibinitperiod},
+           given={Hannes},
+           giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{fullhash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{bibnamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authorbibnamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authornamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authorfullhash}{c7bc81238f2194bc4297c2471af9d776}
+      \list{publisher}{1}{%
+        {Oxford University Press New York, NY}%
+      }
+      \strng{namehash}{db7e7f0974fe081baee16c54c20912f2}
+      \strng{fullhash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{bibnamehash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{authorbibnamehash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{authornamehash}{db7e7f0974fe081baee16c54c20912f2}
+      \strng{authorfullhash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0195385055}
+      \field{journaltitle}{The Oxford handbook of work and aging}
+      \field{title}{Recruiting/Hiring of Older Workers}
+      \field{year}{2012}
+      \field{pages}{380\bibrangedash 391}
+      \range{pages}{12}
+    \endentry
+    \entry{marchiondoDevelopmentValidationWorkplace2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c5a16a952869caeaee44949a88c14f03}{%
+           family={Marchiondo},
+           familyi={M\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4534a31027b98f5ba8f4e4c7f79b2aca}{%
+           family={Gonzales},
+           familyi={G\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ca882fb5645c1eed0ccb6a811c08fc}{%
+           family={Ran},
+           familyi={R\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57e0ff94ed004473519e186bf684c4f9}
+      \strng{fullhash}{d29edf26735e344a9a14de15860085ac}
+      \strng{bibnamehash}{d29edf26735e344a9a14de15860085ac}
+      \strng{authorbibnamehash}{d29edf26735e344a9a14de15860085ac}
+      \strng{authornamehash}{57e0ff94ed004473519e186bf684c4f9}
+      \strng{authorfullhash}{d29edf26735e344a9a14de15860085ac}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose Workplace age discrimination research is proliferating, but researchers lack a valid measure with which to capture targets' discriminatory experiences. We developed a measure of perceived workplace age discrimination that assesses overt and covert forms of discrimination and then compared older, middle-aged, and younger workers' experiences. Design/Methodology In Study 1, we developed the Workplace Age Discrimination Scale (WADS) based on older workers' experiences using a deductive approach, a qualitative study, and two quantitative surveys. In Study 2, we validated the measure among young employees using a qualitative and two quantitative surveys. In Study 3, we tested the WADS among middle-aged workers and tested models of invariance between age groups. Findings Participants frequently endorsed covert discriminatory experiences, which the WADS reflects. The WADS contains convergent and discriminant validity, high reliability, and a unidimensional structure across age groups. It demonstrates criterion-related validity among older and younger workers but not middle-aged workers, given their low experiences of age discrimination. Age discrimination frequency follows a U-shaped pattern across age groups. Implications Researchers can use the WADS to identify long-term outcomes of age discrimination and to further compare workers' discriminatory experiences. Practitioners and policymakers can use the measure to develop interventions to ameliorate workplace age discrimination and inform policymaking. Originality/Value The WADS is the first validated measure of targets' perspectives of workplace age discrimination. Our results challenge assumptions that only older workers experience age discrimination (younger workers' means were highest) and that age discrimination is usually overt in nature (it is often covert).}
+      \field{journaltitle}{Journal of Business and Psychology}
+      \field{month}{12}
+      \field{title}{Development and {{Validation}} of the {{Workplace Age Discrimination Scale}}}
+      \field{volume}{31}
+      \field{year}{2016}
+      \field{pages}{493\bibrangedash 513}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10869-015-9425-6
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/I7IDQ2GI/Marchiondo et al. - 2016 - Development and Validation of the Workplace Age Di.pdf
+      \endverb
+    \endentry
+    \entry{statisticsChapterDisability2011}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
+           family={Statistics},
+           familyi={S\bibinitperiod},
+           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
+           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
+      }
+      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
       \field{sortinit}{o}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -127,6 +272,15 @@
       \field{urlyear}{2024}
       \field{year}{2011}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
+      \endverb
+      \verb{url}
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
+      \endverb
     \endentry
     \entry{pearsonExtendingBoundariesHuman2011}{article}{}
       \name{author}{2}{}{%
@@ -175,6 +329,15 @@
       \verb{doi}
       \verb 10.1177/1038411111414380
       \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+      \verb{url}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
     \endentry
     \entry{podgerEnduringChallengesNew2017}{article}{}
       \name{author}{1}{}{%
@@ -209,6 +372,106 @@
       \field{year}{2017}
       \field{pages}{108\bibrangedash 128}
       \range{pages}{21}
+    \endentry
+    \entry{raeDevelopingResearchPartnership2013}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=a3ff5d6307cbc214c8be544ac371af85}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={Kym},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57035d047a7203c54ffd9e3196d2b5b7}{%
+           family={Weatherall},
+           familyi={W\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fd358be8704e42d27105a4d32edec46}{%
+           family={Hollebone},
+           familyi={H\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2938b565e455cc03707e9b3c46b5ccae}{%
+           family={Apen},
+           familyi={A\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c96a3711aadadfdd84a89fc450597153}{%
+           family={McLean},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b52f702c46dd14546b9c290d3e3c61a}{%
+           family={Blackwell},
+           familyi={B\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d19e21997a8e12787f3045777e3b5a}{%
+           family={Eades},
+           familyi={E\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=074f3e3bae9726651876451b817237e4}{%
+           family={Boulton},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b43314e5055fca56a2cc38285ad01fae}{%
+           family={Lumbers},
+           familyi={L\bibinitperiod},
+           given={Eugenie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbe2a01e9e676b37d5403717f7a72982}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75d68a52f5f3411d41e133fd6186c195}
+      \strng{fullhash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{bibnamehash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{authorbibnamehash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{authornamehash}{75d68a52f5f3411d41e133fd6186c195}
+      \strng{authorfullhash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Issue: Although each research location (regional, rural and remote) has had to spend time determining what approach is best for meeting the research outcomes, many of these suggestions become applicable to clinicians seeking to develop better connections with Aboriginal patients in their clinics. With the management of ongoing chronic health conditions for Aboriginal people a priority in `Closing the Gap', a number of these suggestions could easily be implemented by clinicians. Remembering that each community has specific needs that must be addressed, priorities for assistance for that community will be easily identifiable after community consultation (eg transport, or ability to access medical testing). Opportunities for the use of new social media (eg Facebook) as communication tools for researchers and clinicians will have increasing applicability as further software updates are created. Lessons learnt: With open and trusting dialogues between researchers, clinicians and Aboriginal communities, we can go a long way towards understanding the needs of individual communities and working in partnerships to close the gap.}
+      \field{issn}{1445-6354}
+      \field{journaltitle}{Rural and Remote Health}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Developing Research in Partnership with {{Aboriginal}} Communities - Strategies for Improving Recruitment and Retention}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.22605/RRH2255
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/JE3K3DJG/Rae et al. - 2013 - Developing research in partnership with Aboriginal.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rrh.org.au/journal/article/2255
+      \endverb
+      \verb{url}
+      \verb https://www.rrh.org.au/journal/article/2255
+      \endverb
     \endentry
     \entry{rynesImportanceRecruitmentJob1991}{article}{}
       \name{author}{3}{}{%
@@ -255,6 +518,102 @@
       \field{year}{1991}
       \field{pages}{487\bibrangedash 521}
       \range{pages}{35}
+    \endentry
+    \entry{walkerCombatingAgeDiscrimination1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b86278f726e8a2ac2f23ebb3d002b123}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{fullhash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{bibnamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authorbibnamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authornamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authorfullhash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0361-073X, 1096-4657}
+      \field{journaltitle}{Experimental Aging Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{4}
+      \field{title}{Combating {{Age Discrimination}} at the {{Workplace}}}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{367\bibrangedash 376}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/036107399243823
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/H69RNL2A/Walker - 1999 - Combating Age Discrimination at the Workplace.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/036107399243823
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/036107399243823
+      \endverb
+    \endentry
+    \entry{walkerCombatingAgeBarriers1998}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=b86278f726e8a2ac2f23ebb3d002b123}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb58c17871012af0e1a73061370e9b2f}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=810147b6f41dcb848a1dab39589ea122}{%
+           family={{European Foundation for the Improvement of Living {and} Working Conditions}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dublin, Ireland : [Luxembourg : Lanham, Md}%
+      }
+      \list{publisher}{1}{%
+        {European Foundation for the Improvement of Living and Working Conditions ; Office for Offical Publications of the European Communities ; Bernan Associates, distributor}%
+      }
+      \strng{namehash}{92ea293a39f9ad8467acb8ab574f22be}
+      \strng{fullhash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{bibnamehash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{editorbibnamehash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{editornamehash}{92ea293a39f9ad8467acb8ab574f22be}
+      \strng{editorfullhash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-92-828-0412-4}
+      \field{langid}{english}
+      \field{shorttitle}{Combating Age Barriers in Employment}
+      \field{title}{Combating Age Barriers in Employment: A {{European}} Portfolio of Good Practice}
+      \field{year}{1998}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/KXXMHHBN/Walker et al. - 1998 - Combating age barriers in employment a European p.pdf
+      \endverb
+      \keyw{Age and employment,Age discrimination in employment,Employees,Employment,European Union countries,Older people,Prevention,Recruiting}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
@@ -304,6 +663,53 @@
       \field{pages}{77\bibrangedash 87}
       \range{pages}{11}
     \endentry
+    \entry{drydakisInclusiveRecruitmentHiring2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d9012d7aedddcd7c4a09928935da9312}{%
+           family={Drydakis},
+           familyi={D\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fb414bb6f34c78fb458e0c5519ac8ca}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140aa1ceda2a316edb808820be38e565}{%
+           family={Bozani},
+           familyi={B\bibinitperiod},
+           given={Vasiliki},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a19b8b36ca1d205237568dd5c57587ac}{%
+           family={Chiotis},
+           familyi={C\bibinitperiod},
+           given={Vangelis},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{473413c1ff9783724706bca5e99cb6bb}
+      \strng{fullhash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{bibnamehash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{authorbibnamehash}{784664f81661ef503cfcf999b5d46b47}
+      \strng{authornamehash}{473413c1ff9783724706bca5e99cb6bb}
+      \strng{authorfullhash}{784664f81661ef503cfcf999b5d46b47}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Inclusive {{Recruitment}}? {{Hiring Discrimination}} against {{Older Workers}}}
+      \field{year}{2017}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/EI3CGAPR/Drydakis et al. - 2017 - Inclusive Recruitment Hiring Discrimination again.pdf
+      \endverb
+    \endentry
     \entry{leederAchievingEquityAustralian2003}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17a25516d7052d333eda5a4de0dec83d}{%
@@ -335,21 +741,119 @@
       \field{pages}{475\bibrangedash 478}
       \range{pages}{4}
     \endentry
-    \entry{statisticsChapterDisability2011}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c7bc81238f2194bc4297c2471af9d776}{%
-           family={{of Statistics}},
-           familyi={o\bibinitperiod},
-           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
-           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+    \entry{lievensRecruitingHiringOlder2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ecc5d58476dc11aae045a45bdccbc8e6}{%
+           family={Lievens},
+           familyi={L\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71b5613b769ac437bab551afdccf39cf}{%
+           family={Van\bibnamedelima Hoye},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Greet},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afa7fa36b1c933acacc73185669cbf1a}{%
+           family={Zacher},
+           familyi={Z\bibinitperiod},
+           given={Hannes},
+           giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{fullhash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{bibnamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authorbibnamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authornamehash}{c7bc81238f2194bc4297c2471af9d776}
-      \strng{authorfullhash}{c7bc81238f2194bc4297c2471af9d776}
+      \list{publisher}{1}{%
+        {Oxford University Press New York, NY}%
+      }
+      \strng{namehash}{db7e7f0974fe081baee16c54c20912f2}
+      \strng{fullhash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{bibnamehash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{authorbibnamehash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \strng{authornamehash}{db7e7f0974fe081baee16c54c20912f2}
+      \strng{authorfullhash}{63f57a2ae0c1c9b9fa113836b7390b70}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0195385055}
+      \field{journaltitle}{The Oxford handbook of work and aging}
+      \field{title}{Recruiting/Hiring of Older Workers}
+      \field{year}{2012}
+      \field{pages}{380\bibrangedash 391}
+      \range{pages}{12}
+    \endentry
+    \entry{marchiondoDevelopmentValidationWorkplace2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c5a16a952869caeaee44949a88c14f03}{%
+           family={Marchiondo},
+           familyi={M\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4534a31027b98f5ba8f4e4c7f79b2aca}{%
+           family={Gonzales},
+           familyi={G\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8ca882fb5645c1eed0ccb6a811c08fc}{%
+           family={Ran},
+           familyi={R\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57e0ff94ed004473519e186bf684c4f9}
+      \strng{fullhash}{d29edf26735e344a9a14de15860085ac}
+      \strng{bibnamehash}{d29edf26735e344a9a14de15860085ac}
+      \strng{authorbibnamehash}{d29edf26735e344a9a14de15860085ac}
+      \strng{authornamehash}{57e0ff94ed004473519e186bf684c4f9}
+      \strng{authorfullhash}{d29edf26735e344a9a14de15860085ac}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose Workplace age discrimination research is proliferating, but researchers lack a valid measure with which to capture targets' discriminatory experiences. We developed a measure of perceived workplace age discrimination that assesses overt and covert forms of discrimination and then compared older, middle-aged, and younger workers' experiences. Design/Methodology In Study 1, we developed the Workplace Age Discrimination Scale (WADS) based on older workers' experiences using a deductive approach, a qualitative study, and two quantitative surveys. In Study 2, we validated the measure among young employees using a qualitative and two quantitative surveys. In Study 3, we tested the WADS among middle-aged workers and tested models of invariance between age groups. Findings Participants frequently endorsed covert discriminatory experiences, which the WADS reflects. The WADS contains convergent and discriminant validity, high reliability, and a unidimensional structure across age groups. It demonstrates criterion-related validity among older and younger workers but not middle-aged workers, given their low experiences of age discrimination. Age discrimination frequency follows a U-shaped pattern across age groups. Implications Researchers can use the WADS to identify long-term outcomes of age discrimination and to further compare workers' discriminatory experiences. Practitioners and policymakers can use the measure to develop interventions to ameliorate workplace age discrimination and inform policymaking. Originality/Value The WADS is the first validated measure of targets' perspectives of workplace age discrimination. Our results challenge assumptions that only older workers experience age discrimination (younger workers' means were highest) and that age discrimination is usually overt in nature (it is often covert).}
+      \field{journaltitle}{Journal of Business and Psychology}
+      \field{month}{12}
+      \field{title}{Development and {{Validation}} of the {{Workplace Age Discrimination Scale}}}
+      \field{volume}{31}
+      \field{year}{2016}
+      \field{pages}{493\bibrangedash 513}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10869-015-9425-6
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/I7IDQ2GI/Marchiondo et al. - 2016 - Development and Validation of the Workplace Age Di.pdf
+      \endverb
+    \endentry
+    \entry{statisticsChapterDisability2011}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
+           family={Statistics},
+           familyi={S\bibinitperiod},
+           given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
+           giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
+      }
+      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
       \field{sortinit}{o}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -366,6 +870,15 @@
       \field{urlyear}{2024}
       \field{year}{2011}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
+      \endverb
+      \verb{url}
+      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
+      \endverb
     \endentry
     \entry{pearsonExtendingBoundariesHuman2011}{article}{}
       \name{author}{2}{}{%
@@ -414,6 +927,15 @@
       \verb{doi}
       \verb 10.1177/1038411111414380
       \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
+      \verb{url}
+      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
+      \endverb
     \endentry
     \entry{podgerEnduringChallengesNew2017}{article}{}
       \name{author}{1}{}{%
@@ -448,6 +970,106 @@
       \field{year}{2017}
       \field{pages}{108\bibrangedash 128}
       \range{pages}{21}
+    \endentry
+    \entry{raeDevelopingResearchPartnership2013}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=a3ff5d6307cbc214c8be544ac371af85}{%
+           family={Rae},
+           familyi={R\bibinitperiod},
+           given={Kym},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57035d047a7203c54ffd9e3196d2b5b7}{%
+           family={Weatherall},
+           familyi={W\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fd358be8704e42d27105a4d32edec46}{%
+           family={Hollebone},
+           familyi={H\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2938b565e455cc03707e9b3c46b5ccae}{%
+           family={Apen},
+           familyi={A\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c96a3711aadadfdd84a89fc450597153}{%
+           family={McLean},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b52f702c46dd14546b9c290d3e3c61a}{%
+           family={Blackwell},
+           familyi={B\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d19e21997a8e12787f3045777e3b5a}{%
+           family={Eades},
+           familyi={E\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=074f3e3bae9726651876451b817237e4}{%
+           family={Boulton},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b43314e5055fca56a2cc38285ad01fae}{%
+           family={Lumbers},
+           familyi={L\bibinitperiod},
+           given={Eugenie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbe2a01e9e676b37d5403717f7a72982}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75d68a52f5f3411d41e133fd6186c195}
+      \strng{fullhash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{bibnamehash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{authorbibnamehash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \strng{authornamehash}{75d68a52f5f3411d41e133fd6186c195}
+      \strng{authorfullhash}{de8b715e8143f19bdaa33b27d1cdcd16}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Issue: Although each research location (regional, rural and remote) has had to spend time determining what approach is best for meeting the research outcomes, many of these suggestions become applicable to clinicians seeking to develop better connections with Aboriginal patients in their clinics. With the management of ongoing chronic health conditions for Aboriginal people a priority in `Closing the Gap', a number of these suggestions could easily be implemented by clinicians. Remembering that each community has specific needs that must be addressed, priorities for assistance for that community will be easily identifiable after community consultation (eg transport, or ability to access medical testing). Opportunities for the use of new social media (eg Facebook) as communication tools for researchers and clinicians will have increasing applicability as further software updates are created. Lessons learnt: With open and trusting dialogues between researchers, clinicians and Aboriginal communities, we can go a long way towards understanding the needs of individual communities and working in partnerships to close the gap.}
+      \field{issn}{1445-6354}
+      \field{journaltitle}{Rural and Remote Health}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Developing Research in Partnership with {{Aboriginal}} Communities - Strategies for Improving Recruitment and Retention}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.22605/RRH2255
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/JE3K3DJG/Rae et al. - 2013 - Developing research in partnership with Aboriginal.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rrh.org.au/journal/article/2255
+      \endverb
+      \verb{url}
+      \verb https://www.rrh.org.au/journal/article/2255
+      \endverb
     \endentry
     \entry{rynesImportanceRecruitmentJob1991}{article}{}
       \name{author}{3}{}{%
@@ -494,6 +1116,102 @@
       \field{year}{1991}
       \field{pages}{487\bibrangedash 521}
       \range{pages}{35}
+    \endentry
+    \entry{walkerCombatingAgeDiscrimination1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b86278f726e8a2ac2f23ebb3d002b123}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{fullhash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{bibnamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authorbibnamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authornamehash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \strng{authorfullhash}{b86278f726e8a2ac2f23ebb3d002b123}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0361-073X, 1096-4657}
+      \field{journaltitle}{Experimental Aging Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{4}
+      \field{title}{Combating {{Age Discrimination}} at the {{Workplace}}}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{367\bibrangedash 376}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/036107399243823
+      \endverb
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/H69RNL2A/Walker - 1999 - Combating Age Discrimination at the Workplace.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/036107399243823
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/036107399243823
+      \endverb
+    \endentry
+    \entry{walkerCombatingAgeBarriers1998}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=b86278f726e8a2ac2f23ebb3d002b123}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb58c17871012af0e1a73061370e9b2f}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=810147b6f41dcb848a1dab39589ea122}{%
+           family={{European Foundation for the Improvement of Living {and} Working Conditions}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dublin, Ireland : [Luxembourg : Lanham, Md}%
+      }
+      \list{publisher}{1}{%
+        {European Foundation for the Improvement of Living and Working Conditions ; Office for Offical Publications of the European Communities ; Bernan Associates, distributor}%
+      }
+      \strng{namehash}{92ea293a39f9ad8467acb8ab574f22be}
+      \strng{fullhash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{bibnamehash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{editorbibnamehash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \strng{editornamehash}{92ea293a39f9ad8467acb8ab574f22be}
+      \strng{editorfullhash}{1e56f91a02ca33e44d6307cd1efb18a6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-92-828-0412-4}
+      \field{langid}{english}
+      \field{shorttitle}{Combating Age Barriers in Employment}
+      \field{title}{Combating Age Barriers in Employment: A {{European}} Portfolio of Good Practice}
+      \field{year}{1998}
+      \verb{file}
+      \verb /Users/jacobpyke/Zotero/storage/KXXMHHBN/Walker et al. - 1998 - Combating age barriers in employment a European p.pdf
+      \endverb
+      \keyw{Age and employment,Age discrimination in employment,Employees,Employment,European Union countries,Older people,Prevention,Recruiting}
     \endentry
   \enddatalist
 \endrefsection
