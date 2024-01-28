@@ -98,24 +98,19 @@
     \endentry
     \entry{statisticsChapterDisability2011}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
-           family={Statistics},
-           familyi={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c7bc81238f2194bc4297c2471af9d776}{%
+           family={{of Statistics}},
+           familyi={o\bibinitperiod},
            given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
            giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
+           givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
-      }
-      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{namehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{fullhash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{bibnamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authorbibnamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authornamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authorfullhash}{c7bc81238f2194bc4297c2471af9d776}
       \field{sortinit}{o}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -132,15 +127,6 @@
       \field{urlyear}{2024}
       \field{year}{2011}
       \field{urldateera}{ce}
-      \verb{file}
-      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
-      \endverb
-      \verb{url}
-      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
-      \endverb
     \endentry
     \entry{pearsonExtendingBoundariesHuman2011}{article}{}
       \name{author}{2}{}{%
@@ -188,15 +174,6 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1177/1038411111414380
-      \endverb
-      \verb{file}
-      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
-      \endverb
-      \verb{url}
-      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
       \endverb
     \endentry
     \entry{podgerEnduringChallengesNew2017}{article}{}
@@ -360,24 +337,19 @@
     \endentry
     \entry{statisticsChapterDisability2011}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b9990e9babad58220cc9844a7ee2043}{%
-           family={Statistics},
-           familyi={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c7bc81238f2194bc4297c2471af9d776}{%
+           family={{of Statistics}},
+           familyi={o\bibinitperiod},
            given={c=AU;\bibnamedelimb o=Commonwealth\bibnamedelimb of\bibnamedelimb Australia;\bibnamedelimb ou=Australian\bibnamedelima Bureau},
            giveni={c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
-           prefix={of},
-           prefixi={o\bibinitperiod}}}%
+           givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {c=AU; o=Commonwealth of Australia; ou=Australian Bureau of Statistics}%
-      }
-      \strng{namehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{fullhash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{bibnamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authorbibnamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authornamehash}{4b9990e9babad58220cc9844a7ee2043}
-      \strng{authorfullhash}{4b9990e9babad58220cc9844a7ee2043}
+      \strng{namehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{fullhash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{bibnamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authorbibnamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authornamehash}{c7bc81238f2194bc4297c2471af9d776}
+      \strng{authorfullhash}{c7bc81238f2194bc4297c2471af9d776}
       \field{sortinit}{o}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -394,15 +366,6 @@
       \field{urlyear}{2024}
       \field{year}{2011}
       \field{urldateera}{ce}
-      \verb{file}
-      \verb /Users/jacobpyke/Zotero/storage/J4HL7GB9/4704.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
-      \endverb
-      \verb{url}
-      \verb https://www.abs.gov.au/AUSSTATS/abs@.nsf/lookup/4704.0Chapter500Oct+2010
-      \endverb
     \endentry
     \entry{pearsonExtendingBoundariesHuman2011}{article}{}
       \name{author}{2}{}{%
@@ -450,15 +413,6 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1177/1038411111414380
-      \endverb
-      \verb{file}
-      \verb /Users/jacobpyke/Zotero/storage/GSVWH5CM/Pearson and Daff - 2011 - Extending boundaries of human resource concepts an.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
-      \endverb
-      \verb{url}
-      \verb http://apj.sagepub.com/cgi/doi/10.1177/1038411111414380
       \endverb
     \endentry
     \entry{podgerEnduringChallengesNew2017}{article}{}
